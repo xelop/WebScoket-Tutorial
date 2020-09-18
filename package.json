@@ -1,0 +1,22 @@
+{
+  "name": "websocket-tutorial",
+  "version": "1.0.0",
+  "description": "chat tutorial of websocket web",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xelop/WebScoket-Tutorial.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Xelop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xelop/WebScoket-Tutorial/issues"
+  },
+  "homepage": "https://github.com/xelop/WebScoket-Tutorial#readme"
+}
