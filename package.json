@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xelop/WebScoket-Tutorial/issues"
   },
-  "homepage": "https://github.com/xelop/WebScoket-Tutorial#readme"
+  "homepage": "https://github.com/xelop/WebScoket-Tutorial#readme",
+  "dependencies": {
+    "websocket": "^1.0.32"
+  }
 }
